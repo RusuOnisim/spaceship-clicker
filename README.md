@@ -6,7 +6,7 @@ Simplified version of the famous game Cookie Clicker made during our training pr
 This game was developed during the week of October 23 to October 29, 2023.
 
 ## Link to the game
-Link to our game : [Spaceship clicker]([https://github.com/RusuOnisim/spaceship-clicker](https://rusuonisim.github.io/spaceship-clicker/))
+Link to our game : [Spaceship clicker](https://rusuonisim.github.io/spaceship-clicker/)
 
 ## Features
 ### Mandtory
